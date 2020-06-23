@@ -1,1 +1,1 @@
-# eegabhavani.daydetection
+# daydetection
